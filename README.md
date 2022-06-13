@@ -38,9 +38,9 @@ The table below provides a summary of the material that will be covered during t
 
 | Week | Date   | Topic + Slides in PDF                                                  |
 | :--: | ------ | ------------------------------------------------------ |
-|  1   | Jan 10  | [Introduction & overview](../../lecture-slides/SOEN691-Winter2022/week1_content.pdf)                              |
+|  1   | Jan 10  | [Introduction & overview](lectures/01_introduction/01_introduction_slides.pdf)                              |
 |  2   | Jan 17 | AI for Software Engineers                                   |
-|  3   | Jan 24 | Quality of AI-based systems                                 |
+|  3   | Jan 24 | Hands-on: Quality of ML Pipelines                                 |
 |  4   | Jan 31 | Software requirements for AI-based systems                       |
 |  5   | Feb 7  | Software architectures of AI-based systems                       |
 |  6   | Feb 14 | Data validation and management                                       |
