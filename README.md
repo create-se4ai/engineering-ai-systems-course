@@ -39,16 +39,15 @@ The table below provides a summary of the material that will be covered during t
 | Week | Date   | Topic + Slides in PDF                                                  |
 | :--: | ------ | ------------------------------------------------------ |
 |  1   | Jan 10  | [Introduction & overview](lectures/01_introduction/01_introduction_slides.pdf)                              |
-|  2   | Jan 17 | AI for Software Engineers                                   |
-|  3   | Jan 24 | Hands-on: Quality of ML Pipelines                                 |
-|  4   | Jan 31 | Software requirements for AI-based systems                       |
-|  5   | Feb 7  | Software architectures of AI-based systems                       |
-|  6   | Feb 14 | Data validation and management                                       |
+|  2   | Jan 24 | [AI for Software Engineers: Hands-on Activity](lectures/02_mlpipelines_practical/02_ml_pipelines_practical_slides.pdf)                                   |
+|  4   | Jan 31 | [Software requirements for AI-based systems](lectures/03_requirements/03_requirements_slides.pdf)                       |
+|  5   | Feb 7  | [Software architectures of AI-based systems](lectures/04_architecture/04_architecture_slides.pdf)                       |
+|  6   | Feb 14 | [Data validation and management](lectures/05_data_validation/05_data_validation_slides.pdf)                                       |
 |  7   | Feb 21 | **Project updates (student presentations)**            |
-|  8   | Mar 7  | Model selection and experimentation                                      |
-|  9   | Mar 14 | Deployment and testing                                             |
-|  10  | Mar 21 | Continuous delivery                                |
-|  11  | Mar 28 | Interpreting, explaining, monitoring models, and MLOps (special topics) |
+|  8   | Mar 7  | [Model selection and experimentation](lectures/06_model_selection/06_model_selection_slides.pdf)                                      |
+|  9   | Mar 14 | [Deployment and testing](lectures/07_testing/07_testing_slides.pdf)                                             |
+|  10  | Mar 21 | [Continuous delivery](lectures/08_deploying/08_deploying_guestlecture_slides.pdf)                                |
+|  11  | Mar 28 | [Explaining and Trusting Preseictions (special topic)](lectures/09_explanation_trust/09_explaination_trust_slides.pdf) |
 |  12  | Apr 4  | **Quiz**      |
 |  13  | Apr 11 | **Project presentations (student presentations)**                                         |
 
