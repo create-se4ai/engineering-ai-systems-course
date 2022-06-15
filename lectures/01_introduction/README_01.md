@@ -2,6 +2,10 @@
 
 This module introduces the course, covering an overview of Software Engineering (SE) processes, and a list of challenges related to applying conventional SE practices to develop and service AI-based software systems.  
 
+## Slides
+
+You can find the slides for this module at [Introduction Slides](01_introduction/01_introduction_slides.pdf)
+
 ## Topics covered in this module
 
 Overview of Software Processes:
