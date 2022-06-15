@@ -1,14 +1,17 @@
 # SOEN 691: Engineering AI-Based Software Systems
 
-## Background
 
-The development, deployment and servicing of AI-based systems requires specialized training since such systems tend to have fundamental differences compared to traditional software systems. For example, traditional software systems are written to implement a specific behaviour that is expected of the system, whereas, AI-based systems infer their behaviour from training data. In such cases, technical aspects such as debugging if something is wrong becomes much harder since there is no ‘expected output’. The goal of the course is to provide graduate students with the basic and fundamental technical background while exercising SE concepts in the context of an AI-based software system.
+![SE4AI](images/logo.png)
 
 ## Course Description
 
 This course introduces key concepts related to the engineering of AI-based software systems. Topics include requirements and architectures of AI-based software systems, data validation and management, model selection, quality assurance, deployment and continuous delivery of AI-based software systems. Additionally, special topics on interpreting and monitoring models, and operations in large-scale AI-based system will be included. A course project involving a real-world open source AI-based software system will be required.
+This course is part of the [SE4AI Training Program](https://www.se4ai.org/).
 
-A tentative list of the topics that will be covered in this course is given in the tentative schedule section at the botom of the page.
+
+## Background
+
+The development, deployment and servicing of AI-based systems requires specialized training since such systems tend to have fundamental differences compared to traditional software systems. For example, traditional software systems are written to implement a specific behaviour that is expected of the system, whereas, AI-based systems infer their behaviour from training data. In such cases, technical aspects such as debugging if something is wrong becomes much harder since there is no ‘expected output’. The goal of the course is to provide graduate students with the basic and fundamental technical background while exercising SE concepts in the context of an AI-based software system.
 
 
 ## Evaluation Criteria
