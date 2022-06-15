@@ -13,6 +13,27 @@ This course is part of the [SE4AI Training Program](https://www.se4ai.org/).
 The development, deployment and servicing of AI-based systems requires specialized training since such systems tend to have fundamental differences compared to traditional software systems. For example, traditional software systems are written to implement a specific behaviour that is expected of the system, whereas, AI-based systems infer their behaviour from training data. In such cases, technical aspects such as debugging if something is wrong becomes much harder since there is no ‘expected output’. The goal of the course is to provide graduate students with the basic and fundamental technical background while exercising SE concepts in the context of an AI-based software system.
 
 
+## Course Content 
+
+The table below provides a summary of the material that will be covered during the course as well as a tentative schedule. 
+Please check the course web page for any changes. We will also update the table weekly to include the PDF of the Slides of each topic. 
+
+| Week | Topic + Slides in PDF                                                  |
+| :--: | ------------------------------------------------------ |
+|  1   | [Introduction & overview](lectures/01_introduction/01_introduction_slides.pdf)                              |
+|  2   | [AI for Software Engineers: Hands-on Activity](lectures/02_mlpipelines_practical/02_ml_pipelines_practical_slides.pdf)                                   |
+|  3   | [Software requirements for AI-based systems](lectures/03_requirements/03_requirements_slides.pdf)                       |
+|  4   | [Software architectures of AI-based systems](lectures/04_architecture/04_architecture_slides.pdf)                       |
+|  5   | [Data validation and management](lectures/05_data_validation/05_data_validation_slides.pdf)                                       |
+|  6   | **Project updates (student presentations)**            |
+|  7   | [Model selection and experimentation](lectures/06_model_selection/06_model_selection_slides.pdf)                                      |
+|  8   | [Deployment and testing](lectures/07_testing/07_testing_slides.pdf)                                             |
+|  9   | [Continuous delivery](lectures/08_deploying/08_deploying_guestlecture_slides.pdf)                                |
+|  10  | [Explaining and Trusting Preseictions (special topic)](lectures/09_explanation_trust/09_explaination_trust_slides.pdf) |
+|  11  | **Quiz**      |
+|  12  | **Project presentations (student presentations)**                                         |
+
+
 ## Evaluation Criteria
 
 | Component                    | %   |
@@ -34,24 +55,6 @@ We will have two assigned research papers on most weeks. Each student is expecte
 
 A large portion of the course deliverables is a course research project. You are expected to work on the course project in groups of 4-5 students. Each group is expected to write a research paper by the end of the semester. The topic is to be determined with the instructor. Examples include a new contribution on a specific related topic, a survey paper of a related topic (typically involves surveying 30 – 60 papers), or building a tool to support engineering AI-based software systems. 
 
-## Tentative Schedule
-
-The table below provides a summary of the material that will be covered during the course as well as a tentative schedule. Please check the course web page for any changes. We will also update the table weekly to include the PDF of the Slides of each topic. 
-
-| Week | Date   | Topic + Slides in PDF                                                  |
-| :--: | ------ | ------------------------------------------------------ |
-|  1   | Jan 10  | [Introduction & overview](lectures/01_introduction/01_introduction_slides.pdf)                              |
-|  2   | Jan 24 | [AI for Software Engineers: Hands-on Activity](lectures/02_mlpipelines_practical/02_ml_pipelines_practical_slides.pdf)                                   |
-|  4   | Jan 31 | [Software requirements for AI-based systems](lectures/03_requirements/03_requirements_slides.pdf)                       |
-|  5   | Feb 7  | [Software architectures of AI-based systems](lectures/04_architecture/04_architecture_slides.pdf)                       |
-|  6   | Feb 14 | [Data validation and management](lectures/05_data_validation/05_data_validation_slides.pdf)                                       |
-|  7   | Feb 21 | **Project updates (student presentations)**            |
-|  8   | Mar 7  | [Model selection and experimentation](lectures/06_model_selection/06_model_selection_slides.pdf)                                      |
-|  9   | Mar 14 | [Deployment and testing](lectures/07_testing/07_testing_slides.pdf)                                             |
-|  10  | Mar 21 | [Continuous delivery](lectures/08_deploying/08_deploying_guestlecture_slides.pdf)                                |
-|  11  | Mar 28 | [Explaining and Trusting Preseictions (special topic)](lectures/09_explanation_trust/09_explaination_trust_slides.pdf) |
-|  12  | Apr 4  | **Quiz**      |
-|  13  | Apr 11 | **Project presentations (student presentations)**                                         |
 
 
 ## Reference Material
