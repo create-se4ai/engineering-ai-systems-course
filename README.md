@@ -1,7 +1,6 @@
+<center><img src="images/logo.svg" alt="SE4AI" width="150"/></center>
+
 # SOEN 691: Engineering AI-Based Software Systems
-
-
-<center><img src="images/logo.svg" alt="SE4AI" width="300"/></center>
 
 ## Course Description
 
