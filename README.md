@@ -1,4 +1,4 @@
-<img style="float: left;" src="images/logo.svg" alt="SE4AI" width="150"/> <img style="float: right;" src="images/component_engineering.svg" alt="EngineeringAISystems" width="150"/>
+<img style="float: left;" src="images/logo.svg" alt="SE4AI" width="150"/> <img style="float: right;" src="images/component_engineering.svg" alt="EngineeringAISystems" width="250"/>
 
 # SOEN 691: Engineering AI-Based Software Systems
 
