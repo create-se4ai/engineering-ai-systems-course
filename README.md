@@ -1,4 +1,4 @@
-<center><img src="images/logo.svg" alt="SE4AI" width="150"/></center>
+<img src="images/logo.svg" alt="SE4AI" width="150"/>
 
 # SOEN 691: Engineering AI-Based Software Systems
 
