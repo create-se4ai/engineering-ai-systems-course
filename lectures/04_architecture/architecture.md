@@ -4,7 +4,7 @@ This module covers the decisions software engineers face when designing the arch
 
 ## Slides
 
-You can find the slides for this module at [Architecture and Design for AI systems](04_architecture/04_architecture_slides.pdf).
+You can find the slides for this module at [Architecture and Design for AI systems](04_architecture_slides.pdf).
 
 
 ## Topics covered in this module:

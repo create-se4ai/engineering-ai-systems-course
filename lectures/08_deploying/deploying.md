@@ -4,7 +4,7 @@ This module covers the challenges and practices of deploying machine learning sy
 
 ## Slides
 
-You can find the slides for the guest lecture in this module at [Deploying ML in Production](08_deploying/08_deploying_guestlecture_slides.pdf).
+You can find the slides for the guest lecture in this module at [Deploying ML in Production](08_deploying_guestlecture_slides.pdf).
 - The guest lecture slides was gently made available by [Suhaib Mujahid](https://suhaib.ca/). 
 
 ## Topics covered in this module:

@@ -4,7 +4,7 @@ This module covers approaches for data validation and monitoring for ensuring th
 
 ## Slides
 
-You can find the slides for this module at [Data Validation and Management](05_data_validation/05_data_validation_slides.pdf).
+You can find the slides for this module at [Data Validation and Management](05_data_validation_slides.pdf).
 
 
 ## Topics covered in this module:

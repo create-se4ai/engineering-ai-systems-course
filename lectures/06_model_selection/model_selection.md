@@ -4,7 +4,7 @@ This module covers the trade-offs problems when selecting a model for a AI probl
 
 ## Slides
 
-You can find the slides for this module at [Model Selection](06_model_selection/06_model_selection_slides.pdf).
+You can find the slides for this module at [Model Selection](06_model_selection_slides.pdf).
 
 
 ## Topics covered in this module:

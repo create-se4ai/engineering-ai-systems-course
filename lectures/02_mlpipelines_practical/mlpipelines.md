@@ -5,7 +5,7 @@ We include a hands-on component to walk you through the process of building a ML
 
 ## Slides
 
-You can find the slides for this module at [AI for Software Enfineering Slides](02_mlpipelines_practical/02_ml_pipelines_practical_slides.pdf).
+You can find the slides for this module at [AI for Software Enfineering Slides](02_ml_pipelines_practical_slides.pdf).
 
 ## Notebook for the practical session
 

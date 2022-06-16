@@ -4,7 +4,7 @@ This module covers the challenges and approaches used in industry for testing ma
 
 ## Slides
 
-You can find the slides for this module at [Testing Machine Learning Systems](07_testing/07_testing_slides.pdf).
+You can find the slides for this module at [Testing Machine Learning Systems](07_testing_slides.pdf).
 
 
 ## Topics covered in this module:

@@ -5,7 +5,7 @@ This module covers a special topic related to explaining and trusting prediction
 
 ## Slides
 
-You can find the slides for the guest lecture in this module at [Explaining and Trusting Predictions](09_explanation_trust/09_explaination_trust_slides.pdf).
+You can find the slides for the guest lecture in this module at [Explaining and Trusting Predictions](09_explaination_trust_slides.pdf).
 
 
 ## Topics covered in this module:
