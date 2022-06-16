@@ -28,6 +28,7 @@ Course organization and evaluation criteria.
 This module is based on the following reference materials:
 -  Software Engineering, by Ian Sommerville (10th edition).  
 
+----
 
 # Module 2: AI for Software Engineers (Hands on activity)
 
@@ -36,7 +37,7 @@ We include a hands-on component to walk you through the process of building a ML
 
 ## Slides
 
-You can find the slides for this module at [AI for Software Enfineering Slides](02_mlpipelines_practical_slides.pdf).
+You can find the slides for this module at [AI for Software Enfineering Slides](02_mlpipelines_practical/02_ml_pipelines_practical_slides.pdf).
 
 ## Notebook for the practical session
 
@@ -53,4 +54,110 @@ Overview of the ML pipeline:
 
 Establishing the Course Project
 
-### 
+----
+
+
+# Module 3: Software Requirements for AI-based Systems 
+
+This module covers ...
+
+## Slides
+
+You can find the slides for this module at [Software Requirements for AI systems](03_requirements/03_requirements_slides.pdf).
+
+
+## Topics covered in this module:
+
+
+## Reference Material
+
+
+----
+
+# Module 4: Software Architecture and Design for AI-based Systems
+
+This module covers ...
+
+## Slides
+
+You can find the slides for this module at [Architecture and Design for AI systems](04_architecture/04_architecture_slides.pdf).
+
+
+## Topics covered in this module:
+
+
+## Reference Material
+
+
+
+----
+
+# Module 5: Data Validation and Management
+
+This module covers ...
+
+## Slides
+
+You can find the slides for this module at [Data Validation and Management](05_data_validation/05_data_validation_slides.pdf).
+
+
+## Topics covered in this module:
+
+
+## Reference Material
+
+
+
+----
+
+# Module 7: Testing Machine Learning Systems
+
+This module covers ...
+
+## Slides
+
+You can find the slides for this module at [Testing Machine Learning Systems](07_testing/07_testing_slides.pdf).
+
+
+## Topics covered in this module:
+
+
+## Reference Material
+
+
+----
+
+
+# Module 8: Deploying Machine Learning in Production
+
+This module covers ...
+
+## Slides
+
+You can find the slides for the guest lecture in this module at [Deploying ML in Production](08_deploying/08_deploying_guestlecture_slides.pdf).
+
+
+## Topics covered in this module:
+
+
+## Reference Material
+
+
+----
+
+# Module 9: Explaning and Trusting Predictions
+
+This module covers ...
+
+## Slides
+
+You can find the slides for the guest lecture in this module at [Explaining and Trusting Predictions](09_explanation_trust/09_explaination_trust_slides.pdf).
+
+
+## Topics covered in this module:
+
+
+## Reference Material
+
+
+----
