@@ -8,7 +8,8 @@ This course introduces key concepts related to the engineering of AI-based softw
 
 <img style="float:left;" src="images/logo.svg" alt="SE4AI" width="150"/> 
 
-![SE4AI](images/logo.svg){: style="float: right"} 
+![SE4AI](images/logo.svg){: style="float: right" width="150"} 
+
 This course is part of the [SE4AI Training Program](https://www.se4ai.org/), a training program on the development, deployment and servicing of Artificial Intelligence-based Software Systems. The program is comprised of four Canadian universities: Concordia University, Polytechnique Montréal, Queen University, and University of Alberta. 
 
 
