@@ -20,7 +20,7 @@ Please check the course web page for any changes. We will also update the table 
 
 | Week | Topic + Slides in PDF                                                  |
 | :--: | ------------------------------------------------------ |
-|  1   | [Introduction & overview](lectures/01_introduction/introduction.md)                              |
+|  1   | [Introduction & overview](lectures/MODULES.md)                              |
 |  2   | [AI for Software Engineers: Hands-on Activity](lectures/02_mlpipelines_practical/02_ml_pipelines_practical_slides.pdf)                                   |
 |  3   | [Software requirements for AI-based systems](lectures/03_requirements/03_requirements_slides.pdf)                       |
 |  4   | [Software architectures of AI-based systems](lectures/04_architecture/04_architecture_slides.pdf)                       |
