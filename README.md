@@ -34,7 +34,7 @@ Please check the course web page for any changes. We will also update the table 
 |  5   | [Data validation and management](lectures/05_data_validation/data_validation.md)                                       |
 |  6   | **Project updates (student presentations)**            |
 |  7   | [Model selection and experimentation](lectures/06_model_selection/model_selection.md)                                      |
-|  8   | [Deployment and testing](lectures/07_testing/testing.mdf)                                             |
+|  8   | [Deployment and testing](lectures/07_testing/testing.md)                                             |
 |  9   | [Continuous delivery](lectures/08_deploying/deploying.md)                                |
 |  10  | [Explaining and Trusting Preseictions (special topic)](lectures/09_explanation_trust/explaination_trust.md) |
 |  11  | **Quiz**      |
