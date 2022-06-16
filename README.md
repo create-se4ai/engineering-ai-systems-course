@@ -43,6 +43,8 @@ Please check the course web page for any changes. We will also update the table 
 
 ## Evaluation Criteria
 
+The course evaluation has five components and includes a Research Project, participation in class, paper critiques and a final exam (quiz). 
+
 | Component                    | %   |
 | ---------------------------- | --- |
 | Class participation          | 10  |
@@ -69,7 +71,6 @@ A large portion of the course deliverables is a course research project. You are
 Reading materials (i.e., researcher papers) will be assigned and provided.
 
 The course will occasionally reference the following textbook:
-
 - Building Intelligent Systems: A Guide to Machine Learning Engineering, 2018. _Geoff Hulten_
 
 
