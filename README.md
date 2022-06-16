@@ -6,7 +6,9 @@
 
 <img style="float:right;" align="right" src="images/logo.svg" alt="SE4AI" width="150"/> 
 
-This course is part of the [SE4AI Training Program](https://www.se4ai.org/), a training program on the development, deployment and servicing of Artificial Intelligence-based Software Systems. The program was established in collaboration world-renowned researchers and technology leaders and is composed of four Canadian universities: Concordia University, Polytechnique Montréal, Queen University, and University of Alberta,  
+This course is part of the [SE4AI Training Program](https://www.se4ai.org/), a training program on the development, deployment and servicing of Artificial Intelligence-based Software Systems. The program was established in collaboration world-renowned researchers and technology leaders and is composed of four Canadian universities: Concordia University, Polytechnique Montréal, Queens University, and the University of Alberta.  
+
+
 
 ## Course Description
 
@@ -25,16 +27,16 @@ Please check the course web page for any changes. We will also update the table 
 
 | Week | Modules                                                 |
 | :--: | ------------------------------------------------------ |
-|  1   | [Introduction & overview](lectures/MODULES.md)                              |
-|  2   | [AI for Software Engineers: Hands-on Activity](lectures/02_mlpipelines_practical/02_ml_pipelines_practical_slides.pdf)                                   |
-|  3   | [Software requirements for AI-based systems](lectures/03_requirements/03_requirements_slides.pdf)                       |
-|  4   | [Software architectures of AI-based systems](lectures/04_architecture/04_architecture_slides.pdf)                       |
-|  5   | [Data validation and management](lectures/05_data_validation/05_data_validation_slides.pdf)                                       |
+|  1   | [Introduction & overview](lectures/01_introduction/introduction.md)                              |
+|  2   | [AI for Software Engineers: Hands-on Activity](lectures/02_mlpipelines_practical/mlpipelines.md)                                   |
+|  3   | [Software requirements for AI-based systems](lectures/03_requirements/requirements.md)                       |
+|  4   | [Software architectures of AI-based systems](lectures/04_architecture/architecture.md)                       |
+|  5   | [Data validation and management](lectures/05_data_validation/data_validation.md)                                       |
 |  6   | **Project updates (student presentations)**            |
-|  7   | [Model selection and experimentation](lectures/06_model_selection/06_model_selection_slides.pdf)                                      |
-|  8   | [Deployment and testing](lectures/07_testing/07_testing_slides.pdf)                                             |
-|  9   | [Continuous delivery](lectures/08_deploying/08_deploying_guestlecture_slides.pdf)                                |
-|  10  | [Explaining and Trusting Preseictions (special topic)](lectures/09_explanation_trust/09_explaination_trust_slides.pdf) |
+|  7   | [Model selection and experimentation](lectures/06_model_selection/model_selection.md)                                      |
+|  8   | [Deployment and testing](lectures/07_testing/testing.mdf)                                             |
+|  9   | [Continuous delivery](lectures/08_deploying/deploying.md)                                |
+|  10  | [Explaining and Trusting Preseictions (special topic)](lectures/09_explanation_trust/explaination_trust.md) |
 |  11  | **Quiz**      |
 |  12  | **Project presentations (student presentations)**                                         |
 
