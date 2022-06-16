@@ -6,8 +6,8 @@
 
 This course introduces key concepts related to the engineering of AI-based software systems. Topics include requirements and architectures of AI-based software systems, data validation and management, model selection, quality assurance, deployment and continuous delivery of AI-based software systems. Additionally, special topics on interpreting and monitoring models, and operations in large-scale AI-based system will be included. A course project involving a real-world open source AI-based software system will be required.
 
-
-This course is part of the [SE4AI Training Program](https://www.se4ai.org/), a training program on the development, deployment and servicing of Artificial Intelligence-based Software Systems. The program is comprised of four Canadian universities: Concordia University, Polytechnique Montréal, Queen University, and University of Alberta. <img style="float:right;" src="images/logo.svg" alt="SE4AI" width="150"/> 
+<img style="float:left;" src="images/logo.svg" alt="SE4AI" width="150"/> 
+This course is part of the [SE4AI Training Program](https://www.se4ai.org/), a training program on the development, deployment and servicing of Artificial Intelligence-based Software Systems. The program is comprised of four Canadian universities: Concordia University, Polytechnique Montréal, Queen University, and University of Alberta. 
 
 
 ## Background
