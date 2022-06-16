@@ -2,13 +2,15 @@
 
 # SOEN 691: Engineering AI-Based Software Systems
 
-## Course Description
-
-This course introduces key concepts related to the engineering of AI-based software systems. Topics include requirements and architectures of AI-based software systems, data validation and management, model selection, quality assurance, deployment and continuous delivery of AI-based software systems. Additionally, special topics on interpreting and monitoring models, and operations in large-scale AI-based system will be included. A course project involving a real-world open source AI-based software system will be required.
+## SE4AI Training Program
 
 <img style="float:right;" align="right" src="images/logo.svg" alt="SE4AI" width="150"/> 
 
 This course is part of the [SE4AI Training Program](https://www.se4ai.org/), a training program on the development, deployment and servicing of Artificial Intelligence-based Software Systems. The program was established in collaboration world-renowned researchers and technology leaders and is composed of four Canadian universities: Concordia University, Polytechnique Montréal, Queen University, and University of Alberta,  
+
+## Course Description
+
+This course introduces key concepts related to the engineering of AI-based software systems. Topics include requirements and architectures of AI-based software systems, data validation and management, model selection, quality assurance, deployment and continuous delivery of AI-based software systems. Additionally, special topics on interpreting and monitoring models, and operations in large-scale AI-based system will be included. A course project involving a real-world open source AI-based software system will be required.
 
 
 ## Background
@@ -21,7 +23,7 @@ The development, deployment and servicing of AI-based systems requires specializ
 The table below provides a summary of the material that will be covered during the course as well as a tentative schedule. 
 Please check the course web page for any changes. We will also update the table weekly to include the PDF of the Slides of each topic. 
 
-| Week | Topic + Slides in PDF                                                  |
+| Week | Modules                                                 |
 | :--: | ------------------------------------------------------ |
 |  1   | [Introduction & overview](lectures/MODULES.md)                              |
 |  2   | [AI for Software Engineers: Hands-on Activity](lectures/02_mlpipelines_practical/02_ml_pipelines_practical_slides.pdf)                                   |
