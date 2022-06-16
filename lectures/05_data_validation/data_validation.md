@@ -10,9 +10,10 @@ You can find the slides for this module at [Data Validation and Management](05_d
 ## Topics covered in this module:
 
 - The paramount role of data quality in ML system quality
-- Approaches for validating the input of ML pipelines in large-scale
-- Testing the model using fuzzy techniques
-- Using static analysis tools to capture data violations 
+- Approaches for data validation and management
+  - Validating the input of ML pipelines in large-scale
+  - Testing the model using fuzzy techniques
+  - Using static analysis tools to capture data violations 
 
 
 ## Reference Material
