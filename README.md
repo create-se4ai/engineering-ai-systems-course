@@ -74,12 +74,11 @@ The course will occasionally reference the following textbook:
 - Building Intelligent Systems: A Guide to Machine Learning Engineering, 2018. _Geoff Hulten_
 
 
-## Licensing
+## Want to use any of the course's materials?
 
-Want to use any of the course's material as a basis for a new course in your university? 
 You are free to use and distribute the course's material as long as you:
-- **Abide by the license**, please check the [LICENSE](LICENSING.md) description
-- **Notify us** that you plan to use the material using the contact e-mails below. We just want to keep track of who is using the course's material.      
+- **Abide by the license**, please check the [LICENSE](LICENSING.md) conditions
+- **Notify us** that you plan to use the material using the contact e-mails below. There is no vetting process in place, we just want to be notified to have control of who is using the material. 
 
 
 ## Contact Information
