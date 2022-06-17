@@ -79,8 +79,8 @@ The course will occasionally reference the following textbook:
 You are free to use and distribute the course's material as long as you:
 - **Abide by the license**, please check the [LICENSE](LICENSING.md) conditions
 - **Notify us** and let us know how you plan to use the material using the contact e-mails below. There is no vetting process in place, we just want to be notified to have control of who is using the material. 
-- You can cite this repository using the following BibText entry, if you plan to use this material in a scientific work:
 
+You can cite this repository using the following BibText entry, if you plan to use this material in a scientific work:
 ```
 @misc{SE4AI_course,
 author = {Emad Shihab and Diego Elias Costa},
