@@ -8,7 +8,7 @@
 
 This course is part of the [SE4AI Training Program](https://www.se4ai.org/), a training program on the development, deployment and servicing of Artificial Intelligence-based Software Systems. The program was established in collaboration world-renowned researchers and technology leaders and is composed of four Canadian universities: Concordia University, Polytechnique Montréal, Queens University, and the University of Alberta.  
 
-
+There is also a more practical 15-week version of this course that was given at UQAM. The material for this version of the course can be found as a release and on the branch mgl7811-winter-2023.
 
 ## Course Description
 
