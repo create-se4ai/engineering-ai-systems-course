@@ -10,7 +10,7 @@ You can find the slides for this module at [AI for Software Enfineering Slides](
 ## Notebook for the practical session
 
 We prepared a notebook in Kaggle with a pre-defined scenario for implementing a ML pipeline for a classification problem. 
-The notebook can be forked and experimented on at [SOEN691_GermanCreditReport](https://www.kaggle.com/code/diegoeliascosta/soen691-germancreditreport).
+The notebook can be forked and experimented on at [MGL7811_GermanCreditReport](https://www.kaggle.com/code/diegoeliascosta/mgl7811-germancreditreport).
 
 ## Topics covered in this module:
 

@@ -16,9 +16,3 @@ You can find the slides for this module at [Software Requirements for AI systems
   - What funtional and non-functional requirements are needed to evaluate the quality of an AI component?
 
 
-## Reference Material
-
-The content of the class is based on the following reference materials:
-
-- Vogelsang, Andreas & Borg, Markus. (2019). [Requirements Engineering for Machine Learning: Perspectives from Data Scientists](https://arxiv.org/abs/1908.04674).
-- J. Horkoff, [Non-Functional Requirements for Machine Learning: Challenges and New Directions](http://www.cse.chalmers.se/~jenho/PaperFiles/NFRsforMLRENext.pdf), 2019 IEEE 27th International Requirements Engineering Conference (RE), 2019, pp. 386-391, doi: 10.1109/RE.2019.00050. 
