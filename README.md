@@ -12,9 +12,8 @@ This particular version of the course was given as a special course at [UQAM](ww
 Hence, the description below - in French - is specific to this version of the course.
 Alongside the language differences, there are other specific changes to the original material: 
 1. The course was structured to be given in 15 weeks, instead of 13 weeks. Hence, a few new modules were added.
-2. The course was structured as a practical course, instead of research oriented. Students have to develop a project, which is presented at the end of the course
-  * The project is developed in groups of 3-4 students and has a practical component (i.e., developing a software system) and a research component (i.e., writing a report and presenting the results). More details about this can be found in the [course-project](./course-project) folder.
-3. The original set of papers were also updated as well as the slides style and content.
+2. The course was structured as a practical course, instead of research oriented. Students have to develop a project, which is presented at the end of the course. The project is developed in groups of 3-4 students and has a practical component (i.e., developing a software system) and a research component (i.e., writing a report and presenting the results). More details about this can be found in the [course-project](./course-project) folder.
+1. The original set of papers were also updated as well as the slides style and content.
 
 
 # Description du cours
