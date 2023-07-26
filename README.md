@@ -8,70 +8,65 @@
 
 This course is part of the [SE4AI Training Program](https://www.se4ai.org/), a training program on the development, deployment and servicing of Artificial Intelligence-based Software Systems. The program was established in collaboration world-renowned researchers and technology leaders and is composed of four Canadian universities: Concordia University, Polytechnique Montréal, Queens University, and the University of Alberta.  
 
-
-
-## Course Description
-
-This course introduces key concepts related to the engineering of AI-based software systems. Topics include requirements and architectures of AI-based software systems, data validation and management, model selection, quality assurance, deployment and continuous delivery of AI-based software systems. Additionally, special topics on interpreting and monitoring models, and operations in large-scale AI-based system will be included. A course project involving a real-world open source AI-based software system will be required.
-
-
-## Background
-
-The development, deployment and servicing of AI-based systems requires specialized training since such systems tend to have fundamental differences compared to traditional software systems. For example, traditional software systems are written to implement a specific behaviour that is expected of the system, whereas, AI-based systems infer their behaviour from training data. In such cases, technical aspects such as debugging if something is wrong becomes much harder since there is no ‘expected output’. The goal of the course is to provide graduate students with the basic and fundamental technical background while exercising SE concepts in the context of an AI-based software system.
-
-
-## Course Content 
-
-The table below provides a summary of the material that will be covered during the course as well as a tentative schedule. 
-Please check the course web page for any changes. We will also update the table weekly to include the PDF of the Slides of each topic. 
-
-| Week | Modules                                                 |
-| :--: | ------------------------------------------------------ |
-|  1   | [Introduction & overview](lectures/01_introduction/introduction.md)                              |
-|  2   | [AI for Software Engineers: Hands-on Activity](lectures/02_mlpipelines_practical/mlpipelines.md)                                   |
-|  3   | [Software requirements for AI-based systems](lectures/03_requirements/requirements.md)                       |
-|  4   | [Software architectures of AI-based systems](lectures/04_architecture/architecture.md)                       |
-|  5   | [Data validation and management](lectures/05_data_validation/data_validation.md)                                       |
-|  6   | **Project updates (student presentations)**            |
-|  7   | [Model selection and experimentation](lectures/06_model_selection/model_selection.md)                                      |
-|  8   | [Deployment and testing](lectures/07_testing/testing.md)                                             |
-|  9   | [Continuous delivery](lectures/08_deploying/deploying.md)                                |
-|  10  | [Explaining and Trusting Predictions (special topic)](lectures/09_explanation_trust/explaination_trust.md) |
-|  11  | **Quiz**      |
-|  12  | **Project presentations (student presentations)**                                         |
-
-
-## Evaluation Criteria
-
-The course evaluation has five components and includes a Research Project, participation in class, paper critiques and a final exam (quiz). 
-
-| Component                    | %   |
-| ---------------------------- | --- |
-| Class participation          | 10  |
-| Paper critiques & activities | 20  |
-| Project proposal             | 10  |
-| Research project             | 40  |
-| Quiz                         | 20  |
-
-You must pass the quizzes and the course project to pass the course.
-
-
-### Paper Critiques
-
-We will have two assigned research papers on most weeks. Each student is expected to send a critique of one of the papers that are being presented. The critique should include a **brief summary of the paper, at least three strengths of the paper and at least three weaknesses of the paper**. For the other paper, each student is required to submit a summary of the paper. The critiques and paper summaries are due at noon on Fridays before the class. All paper critiques will be graded in detail.
-
-### Research Project
-
-A large portion of the course deliverables is a course research project. You are expected to work on the course project in groups of 4-5 students. Each group is expected to write a research paper by the end of the semester. The topic is to be determined with the instructor. Examples include a new contribution on a specific related topic, a survey paper of a related topic (typically involves surveying 30 – 60 papers), or building a tool to support engineering AI-based software systems. 
+This particular version of the course was given as a special course at [UQAM](www.uqam.ca) in the Winter of 2023, under the slot course MGL7811 - Sujets spéciaux en génie logiciel II.
+Hence, the description below - in French - is specific to this version of the course.
+Alongside the language differences, there are other specific changes to the original material: 
+    1. The course was structured to be given in 15 weeks, instead of 13 weeks. Hence, a few new modules were added.
+    2. The course was structured as a practical course, instead of research oriented. Students have to develop a project, which is presented at the end of the course
+        a. The project is developed in groups of 3-4 students and has a practical component (i.e., developing a software system) and a research component (i.e., writing a report and presenting the results). More details about this can be found in the [course-project](./course-project) folder.
 
 
 
-## Reference Material
+# Description du cours
 
-Reading materials (i.e., researcher papers) will be assigned and provided.
+Ce cours vise à fournir les concepts clés liés à l'ingénierie des systèmes d’intelligence artificielle. Les sujets inclus sont la spécification et l’architecture des systèmes d’intelligence artificielle, la validation et la gestion des données, le processus de sélection des modèles, les tests ainsi que le déploiement des systèmes d'intelligence artificielle. Les sujets spéciaux sur l'interprétation, l’équité et les opérations des systèmes d’intelligence artificielle peuvent aussi être inclus.
 
-The course will occasionally reference the following textbook:
-- Building Intelligent Systems: A Guide to Machine Learning Engineering, 2018. _Geoff Hulten_
+# Objectifs d'Apprentissage du Cours
+
+L’objectif du cours est de fournir aux étudiants gradués les connaissances techniques de base et fondamentales tout en appliquant les concepts et processus de génie logiciel (GL) dans le contexte d’un système d’intelligence artificielle (IA). À la fin de ce cours, les étudiants seront capables d’identifier les enjeux liés aux systèmes d’intelligence artificielle et de proposer un ensemble de solutions pour spécifier, développer et maintenir les systèmes d’intelligence artificielle. Le cours se concentre sur l’interconnexion du GL et de l’IA, et sur la manière dont les sujets couverts s’appliquent aux systèmes basés sur l’IA.
+
+# Contenu du cours
+
+Le calendrier ci-dessous est susceptible d’évoluer.
+
+| Semaine | Sujet | Date |
+| ------- | ----- | ---- |
+| 1		    | Introduction et aperçu de l’intelligence artificielle (IA) | 12 janvier |
+| 2	      |	IA pour les ingénieurs logiciels (Activité pratique)      | 19 janvier |
+| 3		    | Exigences et spécifications des systèmes d'IA               | 26 janvier |
+| 4       | Architecture des systèmes d'intelligence artificielle       | 2 février |
+| 5	      |	Validation et gestion des données | 9 février |
+| 6	      | Sélection des modèles         | 16 février |
+| 7     	| Mises à jour des projets (présentations faites par les étudiants) | 23 février |
+| 8       | Semaine de lecture ou de relâche | 2 mars |
+| 9       | Test des systèmes d'intelligence artificielle  | 9 mars |
+| 10      | Déploiement des systèmes d'intelligence artificielle | 16 mars |
+| 11      |	Confiance dans la prédiction et l'explicabilité du modèle | 23 mars |
+| 12		  | Sujets spéciaux: MLOps | 30 mars |
+| 13		  | Sujets spéciaux: l'applicabilité de modèles des langages | 6 avril |
+| 14		  | Présentations des projets (présentations faites par les étudiants) | 13 avril |
+| 15      |	Examen | 20 avril |
+| 16		  | Conclusion du cours | 27 avril |
+
+# Évaluation
+
+L'évaluation du cours est composé est la suivante:
+
+| Élément d’évaluation			| %  | Date |
+| ------------------------- | -- | ---- |
+| La participation dans la classe	|	10 | 27 avril  |
+| Critiques d'articles et activités diverses | 20 | 27 avril  |
+| Présentation du plan du projet projet	|	10 | 23 février |
+| Démonstration du projet |	10 | 13 avril |
+| Rapport Final  |	30 | 13 avril |
+| Examen (Quiz)					| 20 | 20 avril |
+
+# Médiagraphie
+
+Le matériel de lecture (c'est-à-dire les articles de recherche) sera attribué et fourni.
+
+Le cours fera occasionnellement référence au manuel suivant :
+- Building Intelligent Systems: A Guide to Machine Learning Engineering, 2018. Geoff Hulten
 
 
 ## Want to use any of the course's materials?
@@ -89,6 +84,7 @@ publisher = {Data-Driven Analysis of Software (DAS) Lab, Concordia University},
 note = {https://github.com/create-se4ai/engineering-ai-systems-course}
 }
 ```
+
 
 
 ## Contact Information
