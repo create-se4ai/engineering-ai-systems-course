@@ -4,8 +4,8 @@ This folder contains the specifications of each chapter of the course project. T
 
 ## Project Description
 
-After organizing themselves in groups, the group of students should select a publicly dataset to build a full fledged system. 
-The datasets available for this particular installment are described in the [Datasets](./Datasets%20for%20the%20Course%20Project.pdf) file. 
+After organizing themselves in groups, the group of students should select a publicly available dataset to build a full fledged system. 
+The recommended datasets for this particular installment are described in the [Datasets](./Datasets%20for%20the%20Course%20Project.pdf) file. 
 
 
 The report is organized in chapters that should answer the questions in the specification written in the files below:
