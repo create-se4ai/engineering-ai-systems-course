@@ -1,6 +1,6 @@
 <img style="float: right;" src="images/component_engineering.svg" alt="EngineeringAISystems" width="250"/>
 
-# SOEN 691: Engineering AI-Based Software Systems
+# MGL 7811: Ingénierie des systèmes d’intelligence artificielle
 
 ## SE4AI Training Program
 
